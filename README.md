@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-	<h3>If you've gotten any use out of any of my work, please consider donating!</h3>
+	<h3 align="center">If you've gotten any use out of any of my work, please consider donating!</h3>
 </p>
 
 
