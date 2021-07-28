@@ -1,11 +1,11 @@
-![Background](https://i.pinimg.com/originals/03/0d/79/030d79644f497a8e06c7ed38f6cd550d.jpg)
+![Background](https://images4.alphacoders.com/976/976294.png)
 
 <h1 align="center">
 	std::cout<<"Hello World! 👋, I'm Kenyh, a Junior Developer";
 </h1>
 
 <h2 align="center">
-	Skills: *Python*, *Node.js*, *CSS*, *HTML5*, *C++*, *C#*, *Perl*, *LUA*
+	Skills: Python, Javascript, CSS, HTML5, C++, C#, Perl, LUA
 </h2>
 
 <p align="center">
