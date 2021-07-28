@@ -6,6 +6,7 @@
 
 <p align="center">
 	## Skills: *Python*, *Node.js*, *CSS*, *HTML5*, *C++*, *C#*, *Perl*, *LUA*
-  ![Kenyh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xKenyh&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xKenyh&show_icons=true&theme=radical)
+	<img src="https://github-readme-stats.vercel.app/api?username=xKenyh&show_icons=true&theme=radical">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKenyh&show_icons=true&theme=radical">
+        ![Kenyh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xKenyh&show_icons=true&theme=radical)
 </p>
