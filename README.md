@@ -1,7 +1,7 @@
-![Background](https://images4.alphacoders.com/976/976294.png)
+![Background](https://clipground.com/images/ahegao-png-5.png)
 
 <h1 align="center">
-	std::cout<<"Hello World! 👋, I'm Kenyh, a Junior Developer";
+	std::cout<<"Hello World! 👋, I'm Kenyh, a Semi-Senior Developer";
 </h1>
 
 <h2 align="center">
