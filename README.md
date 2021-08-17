@@ -1,5 +1,5 @@
 <p align="center">
-	![Background](https://clipground.com/images/ahegao-png-5.png)
+	<img src="https://clipground.com/images/ahegao-png-5.png">
 </p>
 
 <h1 align="center">
