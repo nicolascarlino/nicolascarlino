@@ -1,4 +1,6 @@
-![Background](https://clipground.com/images/ahegao-png-5.png)
+<p align="center">
+	![Background](https://clipground.com/images/ahegao-png-5.png)
+</p>
 
 <h1 align="center">
 	std::cout<<"Hello World! 👋, I'm Kenyh, a Semi-Senior Developer";
