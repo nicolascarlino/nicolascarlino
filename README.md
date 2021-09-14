@@ -10,6 +10,7 @@
   
 <h3 align="center">Socials</h3>
 <p align="center">
-  <a href="https://discord.com/user/366106745396920322" target="_blank" rel="nofollow"><img alt="Ceylan's Linkedin" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/user/852635268079026227" target="_blank" rel="nofollow"><img alt="Ceylan's Linkedin" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/xKenyh" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/rip.kenyh target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rip.kenyh/" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/zkenyh" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Twitter-0092FF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
