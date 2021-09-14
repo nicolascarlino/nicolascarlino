@@ -5,5 +5,5 @@
 <a href="https://www.javascript.com/" target="_blank" rel="nofollow"><img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://www.python.org" target="_blank" rel="nofollow"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-%23F5792A.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-<a href="https://isocpp.org/" target="_blank" rel="nofollow"><img alt="C#" src="https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=csharp&logoColor=white" /></a>
-<a href="https://isocpp.org/" target="_blank" rel="nofollow"><img alt="LUA" src="https://img.shields.io/badge/LUA-3999AB?style=for-the-badge&logo=lua&logoColor=white" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="nofollow"><img alt="C#" src="https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=csharp&logoColor=white" /></a>
+<a href="https://www.lua.org/" target="_blank" rel="nofollow"><img alt="LUA" src="https://img.shields.io/badge/LUA-3999AB?style=for-the-badge&logo=lua&logoColor=white" /></a>
