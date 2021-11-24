@@ -8,6 +8,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="nofollow"><img alt="C#" src="https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=csharp&logoColor=white" /></a>
 <a href="https://www.lua.org/" target="_blank" rel="nofollow"><img alt="LUA" src="https://img.shields.io/badge/LUA-3999AB?style=for-the-badge&logo=lua&logoColor=white" /></a>
 <a href="https://unity.com/" target="_blank" rel="nofollow"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="nofollow"><img alt="NodeJS" src="https://img.shields.io/badge/Node-yellow?style=for-the-badge&logo=javascript&logoColor=white" /></a>
 
   
 <h3 align="center">Socials</h3>
