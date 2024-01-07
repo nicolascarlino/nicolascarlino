@@ -7,6 +7,7 @@ i'm kenyh, but you can call me nicolas
 - 📫 how to reach me: nicolascarlino08@gmail.com
 - 🌱 i’m currently learning [Rust](https://www.rust-lang.org/learn)
 - ⚡ fun fact: i also play guitar and I wish to form a band (i can't do everything, i wish i had 72 hours in a day)
+- 👾 another fact about me: i love anything related to memory hacking, and and i'm even more interested in things that interact with the kernel.
 
 
 <h3 align="center">languages and tools</h3>
@@ -20,6 +21,7 @@ i'm kenyh, but you can call me nicolas
 <a href="https://www.lua.org/" target="_blank" rel="nofollow"><img alt="LUA" src="https://img.shields.io/badge/LUA-3999AB?style=for-the-badge&logo=lua&logoColor=white" /></a>
 <a href="https://unity.com/" target="_blank" rel="nofollow"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="nofollow"><img alt="NodeJS" src="https://img.shields.io/badge/Node-yellow?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="nofollow"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
 
   
 <h3 align="center">socials</h3>
