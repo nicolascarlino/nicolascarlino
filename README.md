@@ -1,3 +1,11 @@
+# Hi there, I'm kenyh 👋
+
+- 🏢 I'm currently studying on high school
+- - 📫 How to reach me: nicolascarlino08@gmail.com
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
+- ⚡ Fun fact: I also play guitar and I wish to form a band
+
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://www.w3schools.com/css" target="_blank" rel="nofollow"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
@@ -13,7 +21,6 @@
   
 <h3 align="center">Socials</h3>
 <p align="center">
-  <a href="https://discord.com/user/852635268079026227" target="_blank" rel="nofollow"><img alt="Ceylan's Linkedin" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/xKenyh" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/rip.kenyh/" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitter.com/zkenyh" target="_blank" rel="nofollow"><img alt="kenyh instagram" src="https://img.shields.io/badge/Twitter-0092FF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
