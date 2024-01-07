@@ -1,15 +1,15 @@
-# Hi there, I'm kenyh 👋 🇦🇷
-I primarly code on low level languages as a hobby, and i wish to work as a back-end developer (but with the knowledge of a full stack)
+# hi there, i'm kenyh 👋 🇦🇷
+i primarly code on low level languages as a hobby, and i wish to work as a back-end developer (but with the knowledge of a full stack)
 
-I'm Kenyh, but you can call me Nicolas
+i'm kenyh, but you can call me nicolas
 
-- 🏢 I'm currently studying on high school
-- 📫 How to reach me: nicolascarlino08@gmail.com
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
-- ⚡ Fun fact: I also play guitar and I wish to form a band (I cant do anything, i wish i had 72 hours in a day)
+- 🏢 i'm currently studying on high school
+- 📫 how to reach me: nicolascarlino08@gmail.com
+- 🌱 i’m currently learning [Rust](https://www.rust-lang.org/learn)
+- ⚡ fun fact: i also play guitar and I wish to form a band (i can't do everything, i wish i had 72 hours in a day)
 
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">languages and tools</h3>
 <p align="center">
 <a href="https://www.w3schools.com/css" target="_blank" rel="nofollow"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="https://www.w3.org/html" target="_blank" rel="nofollow"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -22,9 +22,9 @@ I'm Kenyh, but you can call me Nicolas
 <a href="https://nodejs.org/" target="_blank" rel="nofollow"><img alt="NodeJS" src="https://img.shields.io/badge/Node-yellow?style=for-the-badge&logo=javascript&logoColor=white" /></a>
 
   
-<h3 align="center">Socials</h3>
+<h3 align="center">socials</h3>
 <p align="center">
   <a href="https://github.com/knynrv" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/hermet1ka/" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitter.com/zkenyh" target="_blank" rel="nofollow"><img alt="kenyh instagram" src="https://img.shields.io/badge/Twitter-0092FF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://t.me/xKenyh/" target="_blank" rel="nofollow"><img alt="kenyh telegram" src="https://img.shields.io/badge/Telegram-008FFF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/almafu3rte/" target="_blank" rel="nofollow"><img alt="kenyh telegram" src="https://img.shields.io/badge/Telegram-008FFF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
