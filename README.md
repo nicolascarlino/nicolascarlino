@@ -1,9 +1,12 @@
-# Hi there, I'm kenyh 👋
+# Hi there, I'm kenyh 👋 🇦🇷
+I primarly code on low level languages as a hobby, and i wish to work as a back-end developer (but with the knowledge of a full stack)
+
+I'm Kenyh, but you can call me Nicolas
 
 - 🏢 I'm currently studying on high school
-- - 📫 How to reach me: nicolascarlino08@gmail.com
+- 📫 How to reach me: nicolascarlino08@gmail.com
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
-- ⚡ Fun fact: I also play guitar and I wish to form a band
+- ⚡ Fun fact: I also play guitar and I wish to form a band (I cant do anything, i wish i had 72 hours in a day)
 
 
 <h3 align="center">Languages and Tools</h3>
@@ -21,7 +24,7 @@
   
 <h3 align="center">Socials</h3>
 <p align="center">
-  <a href="https://github.com/xKenyh" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rip.kenyh/" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/knynrv" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hermet1ka/" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitter.com/zkenyh" target="_blank" rel="nofollow"><img alt="kenyh instagram" src="https://img.shields.io/badge/Twitter-0092FF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://t.me/xKenyh/" target="_blank" rel="nofollow"><img alt="kenyh telegram" src="https://img.shields.io/badge/Telegram-008FFF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
