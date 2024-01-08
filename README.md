@@ -28,5 +28,5 @@ i'm kenyh, but you can call me nicolas
 <p align="center">
   <a href="https://github.com/knynrv" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/hermet1ka/" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/zkenyh" target="_blank" rel="nofollow"><img alt="kenyh instagram" src="https://img.shields.io/badge/Twitter-0092FF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://t.me/almafu3rte/" target="_blank" rel="nofollow"><img alt="kenyh telegram" src="https://img.shields.io/badge/Telegram-008FFF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://twitter.com/almafu3rte" target="_blank" rel="nofollow"><img alt="kenyh instagram" src="https://img.shields.io/badge/Twitter-0092FF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/zkenyh/" target="_blank" rel="nofollow"><img alt="kenyh telegram" src="https://img.shields.io/badge/Telegram-008FFF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
