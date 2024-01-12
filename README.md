@@ -4,7 +4,7 @@ i primarly code on low level languages as a hobby, and i wish to work as a back-
 i'm kenyh, but you can call me nicolas
 
 - 🏢 i'm currently studying on high school
-- 📫 how to reach me: nicolascarlino08@gmail.com
+- 📫 how to reach me: nicolascarlino@proton.me
 - 🌱 i’m currently learning [Rust](https://www.rust-lang.org/learn)
 - ⚡ fun fact: i also play guitar and I wish to form a band (i can't do everything, i wish i had 72 hours in a day)
 - 👾 another fact about me: i love anything related to memory hacking, and and i'm even more interested in things that interact with the kernel.
