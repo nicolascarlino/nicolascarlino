@@ -1,7 +1,5 @@
-# hi there, i'm kenyh 👋 🇦🇷
+# hi there, i'm nico 👋 🇦🇷
 i primarly code on low level languages as a hobby, and i wish to work as a back-end developer (but with the knowledge of a full stack)
-
-i'm kenyh, but you can call me nicolas
 
 - 🏢 i'm currently studying on high school
 - 📫 how to reach me: nicolascarlino@proton.me
